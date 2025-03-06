@@ -1,6 +1,6 @@
 # SkyWang-Blog
 
-> 记录SkyWang的一些生活
+> 记录SkyWang的一些生活,部署程序来源于https://github.com/tw93/weekly
 
 * [第 10 期 - 新疆的雪山](https://weekly.tw93.fun/posts/10-新疆的雪山)
 * [第 9 期 - 华山](https://weekly.tw93.fun/posts/09-华山)
